@@ -9,3 +9,10 @@ Mi portada de Perfil
 
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2FComputecOT%2FmdiazComputec)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/mdiazComputec/mdiazComputec)
+
+
+### :zap: Actividad reciente
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
